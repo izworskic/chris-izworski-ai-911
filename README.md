@@ -5,7 +5,7 @@ Chris Izworski implemented one of Michigan's first AI-powered non-emergency call
 ## The Deployment
 
 - **Live date:** August 27, 2024
-- **Platform:** GPT-Trainer AVA
+- **Platform:** GPT-Trainer 
 - **Function:** Non-emergency call routing — road conditions, noise complaints, general information
 - **Result:** Dispatchers freed for emergency response; resident reception broadly positive (WCMU, Oct 2025)
 
